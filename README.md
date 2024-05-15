@@ -69,7 +69,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter)
+Instagram - [@suriya_vdk](https://www.instagram.com/suriya_vdk/)
 
 Project Link: [https://github.com/jayasuriya-it21/file_grabber](https://github.com/jayasuriya-it21/file_grabber)
 
